@@ -2,7 +2,6 @@
 
 ## 浓缩版
 
-
 | 缩写 | 英文全称 | 中文 |
 | :---: | :---: | :---: |
 | FDM | frequency-division multiplexing | 分频复用 |
@@ -12,7 +11,7 @@
 | FTP | File Transfer Protocol | 文件传输协议 |
 | TCP | Transmission Control Protocol | 传输控制协议 |
 | UDP | User Datagram Protocol | 用户数据包协议 |
-| IP | Internet Protocol | 网络互连协议  |
+| IP | Internet Protocol | 网络互连协议 |
 | ICMP | Internet Control Message Protocol | 网际控制报文协议 |
 | ARP | Address Resolution Protocol | 地址解析协议 |
 | LS | Link State | 链路状态 |
@@ -21,11 +20,10 @@
 | RIP | Routing Information Protocol | 路由信息协议 |
 | BGP | Border Gate-way Protocol | 分界网关协议 |
 | NAT | Network Address Translation | 网络地址转换 |
-| CSMA/CD | Carrier Sense Multiple Access (with) collision detection | 带冲突检测的载波监听多路访问 |
+| CSMA/CD | Carrier Sense Multiple Access \(with\) collision detection | 带冲突检测的载波监听多路访问 |
 | PPP | Point-to-Point Protocol | 点到点协议 |
 | HTML | Hyper Text Mark-up Language | 超文本标记语言 |
 | MAC | Medium Access Control | 介质访问控制 |
-
 
 ## 无聊版
 
@@ -66,7 +64,7 @@
 | ATM | Asynchronous TransferMode | 异步传输模式 |
 | AIMD | Additive Increase Multiplicative Decrease | 加性增，乘性减 |
 | CBR | Constants Bit Rate | 固定码率 |
-| VBR  | VariableBit Rate | 动态比特率 |
+| VBR | VariableBit Rate | 动态比特率 |
 | ABR | Adaptive Bit Rate | 自适应比特率 |
 | UBR | Unspecified Bit Rate | 未指定比特速率 |
 | VC | Virtual Circuit | 虚电路 |
@@ -83,7 +81,4 @@
 | NAT | Network Address Translation | 网络地址转换 |
 | UPnP | Universal Plug and Play | 通用即插即用 |
 | IGD | Internet Gateway Device | 互联网网关设备 |
-
-
-
 
