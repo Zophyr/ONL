@@ -181,7 +181,8 @@ Non-repudiation
 
 - Computer Network Attack
 - Common Types of Network Attack
-- Port Scan  Idle Scan
+- Port Scan
+- Idle Scan
 
 ### 5.3 Password Cracking
 
